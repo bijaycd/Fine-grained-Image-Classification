@@ -11,7 +11,7 @@ This project aims to implement fine-grain image classification using the MobileN
 - Evaluation notebooks with visualizations of model performance metrics.
 
 **Dataset:**
-The project uses a fine-grained image dataset named 'CUB-200-2011'
+The project uses a fine-grained image dataset named `CUB-200-2011`
 
 **Model Architecture:**
 MobileNet architecture is chosen for its lightweight design, making it suitable for resource-constrained environments such as mobile devices. The model's depth-wise separable convolutions enable efficient feature extraction while minimizing computational complexity.
